@@ -1,0 +1,33 @@
+.backgroundContainer {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.googleLogo {
+  text-align: center;
+  padding-bottom: 10px;
+  height: 30px;
+  width: 150px;
+}
+
+.searchContainer {
+  display: flex;
+  justify-content: left;
+  max-height: 300px;
+  width: 500px;
+  border: 2px solid #bfbfbf;
+  border-radius: 10px;
+}
+
+.searchIcon {
+  height: 5px;
+  width: 5px;
+}
+
+Suggestion_List_container {
+  display: flex;
+  flex-direction: column;
+}

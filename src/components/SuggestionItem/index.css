@@ -1,0 +1,20 @@
+.SuggestionItemContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.Suggestions {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+}
+
+.Arrowbutton {
+  color: #64748b;
+  height: 15px;
+  width: 15px;
+}
+
+.search_image {
+}
